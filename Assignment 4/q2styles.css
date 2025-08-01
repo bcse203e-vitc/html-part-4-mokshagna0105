@@ -1,0 +1,30 @@
+header{
+    background-color: rgb(45, 54, 54);
+    color: white;
+}
+main{
+    margin-top: 10px;
+    background-color: azure;
+}
+button{
+    background-color: rgba(239, 53, 53, 0.959);
+    color: white;
+    border-radius: 7px;
+    height: 40px;
+    width: 129px;
+    transition: background-color 0.3s ease;
+}
+button:hover {
+    background-color: rgb(43, 0, 255); /* fully opaque on hover */
+  }
+p{
+    color: black;
+}
+footer{
+    margin-top: 10px;
+    background-color: rgb(0, 132, 255);
+    color: white;
+}
+body{
+    text-align: center;
+}

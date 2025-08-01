@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .box {
+    background-color: #ffffff;
+    border: black;
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  .box1 {
+    padding: 10px;
+    border: 2px solid #3498db;
+    background-clip: content-box;
+    background-color: #e8f4fa;
+  }
+  
+
+  .box2 {
+    padding: 20px;
+    border: 4px dashed #e67e22;
+    background-clip: content-box;
+    background-color: #fff3e0;
+  }
+  
+
+  .box3 {
+    padding: 40px;
+    background-clip: content-box;
+    background-color: #85f494;
+    margin-bottom: 40px;
+  }
